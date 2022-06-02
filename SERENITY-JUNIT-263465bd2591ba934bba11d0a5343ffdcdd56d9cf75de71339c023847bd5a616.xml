@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="search for products" skipped="0" tests="4" time="6.96" timestamp="2022-06-02 09:04:50"><testcase name="Search valid product"/><testcase name="Search invalid product"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="search for products" skipped="0" tests="4" time="6.81" timestamp="2022-06-02 09:40:23"><testcase name="Search valid product"/><testcase name="Search invalid product"/></testsuite>
