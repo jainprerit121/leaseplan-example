@@ -1,4 +1,4 @@
-package com.qlick.assignment.dtos;
+package com.qlick.assignment.dtos.search;
 
 import lombok.Getter;
 import lombok.Setter;

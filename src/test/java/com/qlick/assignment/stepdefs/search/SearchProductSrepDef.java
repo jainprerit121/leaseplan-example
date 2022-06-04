@@ -1,6 +1,6 @@
-package com.qlick.assignment.stepdefs;
+package com.qlick.assignment.stepdefs.search;
 
-import com.qlick.assignment.steps.SearchStep;
+import com.qlick.assignment.steps.search.SearchStep;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.thucydides.core.annotations.Steps;

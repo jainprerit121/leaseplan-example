@@ -1,7 +1,7 @@
-package com.qlick.assignment.steps;
+package com.qlick.assignment.steps.search;
 
 import com.qlick.assignment.EndPoints;
-import com.qlick.assignment.dtos.SearchProductResponse;
+import com.qlick.assignment.dtos.search.SearchProductResponse;
 import com.qlick.assignment.utils.SerenityRestUtils;
 import net.thucydides.core.annotations.Shared;
 import net.thucydides.core.annotations.Step;
