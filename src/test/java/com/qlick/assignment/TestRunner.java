@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {"pretty"},
         features = "src/test/resources/features",
-        glue = "com.qlick.assignment.stepdefs"
+        glue = "com.qlick.assignment.stepdefs",
+        tags = "@regression"
 )
 public class TestRunner {}

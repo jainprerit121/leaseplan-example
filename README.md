@@ -8,7 +8,8 @@ This is a test automation framework for API Testing using Serenity BDD, Cucumber
 
 1. Install Java 1.8 & maven to operate from commandline or use same versions in any IDE of your choice.
 2. Run the tests using the command `mvn clean verify -Denvironment=test`. This will clean the target folder and execute all the tests.
-3. You can also run test from the [TestRunner](src/test/java/com/qlick/assignment/TestRunner.java) class
+3. You can also run test from the [TestRunner](src/test/java/com/qlick/assignment/TestRunner.java) class 
+4. To run tests with specific tags use command `mvn clean verify -Dtags="@regression"`.
 
 ## Brief about the framework:
 - DTOs: DTOs are the JSON data models for parsing string data into java object. This is a good way to make sure the JSON fits the given contract. 
