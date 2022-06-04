@@ -1,6 +1,4 @@
-#cypress-assignment
-
-#Serenity Testing Assignment
+# Serenity Testing Assignment
 
 ## Introduction
 This is a test automation framework for API Testing using Serenity BDD, Cucumber & Java.
